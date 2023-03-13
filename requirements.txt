@@ -1,0 +1,7 @@
+gradio
+mdtex2html
+pypinyin
+tiktoken
+socksio
+tqdm
+colorama
