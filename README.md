@@ -9,7 +9,9 @@ Pre Requisites:
 Step 1:
 ¤ pip install -r requirements.txt
   This means type out ' pip install -r requirements.txt ' into commmand prompt 
-  with the BlackGPT Folder as the directory
+    with the BlackGPT Folder as the directory
+    
+    Type:   cd C:/path/to/BlackGPT/Folder
  
 
 Step 2:
