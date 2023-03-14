@@ -26,3 +26,4 @@ Step 3:
                 OR
   Double-click BlackGPT.py file
   
+Use BlackGPT - Edit with text https://app.wordtune.com/editor/
