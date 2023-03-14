@@ -8,6 +8,9 @@ Pre Requisites:
 
 Step 1:
 ¤ pip install -r requirements.txt
+  This means type out ' pip install -r requirements.txt ' into commmand prompt 
+  with the BlackGPT Folder as the directory
+ 
 
 Step 2:
 ¤ Set API key when program launches
